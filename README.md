@@ -62,7 +62,7 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [*(https://www.linkedin.com/in/prakash-/)*]
+* 💼 LinkedIn: *https://www.linkedin.com/in/prakash-/*
 * 📧 Email: *prakash7079raj@gmail.com*
 
 ---
